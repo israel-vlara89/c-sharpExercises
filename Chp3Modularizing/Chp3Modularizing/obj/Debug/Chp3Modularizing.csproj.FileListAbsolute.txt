@@ -1,0 +1,5 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3Modularizing\Chp3Modularizing\bin\Debug\Chp3Modularizing.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3Modularizing\Chp3Modularizing\bin\Debug\Chp3Modularizing.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3Modularizing\Chp3Modularizing\bin\Debug\Chp3Modularizing.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3Modularizing\Chp3Modularizing\obj\Debug\Chp3Modularizing.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3Modularizing\Chp3Modularizing\obj\Debug\Chp3Modularizing.pdb

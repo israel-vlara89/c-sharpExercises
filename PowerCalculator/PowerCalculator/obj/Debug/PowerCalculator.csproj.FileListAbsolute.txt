@@ -1,0 +1,6 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csprojResolveAssemblyReference.cache
+c:\users\core i3 550\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.pdb

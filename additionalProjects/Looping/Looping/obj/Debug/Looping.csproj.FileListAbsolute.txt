@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Looping\Looping\bin\Debug\Looping.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Looping\Looping\bin\Debug\Looping.exe
+c:\users\user\documents\visual studio 2015\Projects\Looping\Looping\bin\Debug\Looping.pdb
+c:\users\user\documents\visual studio 2015\Projects\Looping\Looping\obj\Debug\Looping.exe
+c:\users\user\documents\visual studio 2015\Projects\Looping\Looping\obj\Debug\Looping.pdb

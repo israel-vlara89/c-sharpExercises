@@ -1,0 +1,5 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Structs\Chapter4Structs\bin\Debug\Chapter4Structs.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Structs\Chapter4Structs\bin\Debug\Chapter4Structs.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Structs\Chapter4Structs\bin\Debug\Chapter4Structs.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Structs\Chapter4Structs\obj\Debug\Chapter4Structs.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Structs\Chapter4Structs\obj\Debug\Chapter4Structs.pdb

@@ -1,0 +1,6 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\LinqTutorial\LinqTutorial\bin\Debug\LinqTutorial.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\LinqTutorial\LinqTutorial\bin\Debug\LinqTutorial.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\LinqTutorial\LinqTutorial\bin\Debug\LinqTutorial.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\LinqTutorial\LinqTutorial\obj\Debug\LinqTutorial.csprojResolveAssemblyReference.cache
+c:\users\core i3 550\documents\visual studio 2015\Projects\LinqTutorial\LinqTutorial\obj\Debug\LinqTutorial.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\LinqTutorial\LinqTutorial\obj\Debug\LinqTutorial.pdb

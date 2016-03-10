@@ -1,0 +1,6 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\Structs\Structs\obj\Debug\Structs.csprojResolveAssemblyReference.cache
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\Structs\Structs\obj\Debug\Structs.pdb

@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2015\Projects\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+c:\users\user\documents\visual studio 2015\Projects\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csprojResolveAssemblyReference.cache

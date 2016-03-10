@@ -1,0 +1,6 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Enumerators\Chapter4Enumerators\bin\Debug\Chapter4Enumerators.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Enumerators\Chapter4Enumerators\bin\Debug\Chapter4Enumerators.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Enumerators\Chapter4Enumerators\bin\Debug\Chapter4Enumerators.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Enumerators\Chapter4Enumerators\obj\Debug\Chapter4Enumerators.csprojResolveAssemblyReference.cache
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Enumerators\Chapter4Enumerators\obj\Debug\Chapter4Enumerators.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4Enumerators\Chapter4Enumerators\obj\Debug\Chapter4Enumerators.pdb

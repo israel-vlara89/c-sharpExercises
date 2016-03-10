@@ -1,0 +1,5 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter02\Calculator\bin\Debug\Calculator.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter02\Calculator\bin\Debug\Calculator.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter02\Calculator\bin\Debug\Calculator.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter02\Calculator\obj\Debug\Calculator.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter02\Calculator\obj\Debug\Calculator.pdb

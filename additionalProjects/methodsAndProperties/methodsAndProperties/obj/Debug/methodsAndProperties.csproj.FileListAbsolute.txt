@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\methodsAndProperties\methodsAndProperties\bin\Debug\methodsAndProperties.exe.config
+c:\users\user\documents\visual studio 2015\Projects\methodsAndProperties\methodsAndProperties\bin\Debug\methodsAndProperties.exe
+c:\users\user\documents\visual studio 2015\Projects\methodsAndProperties\methodsAndProperties\bin\Debug\methodsAndProperties.pdb
+c:\users\user\documents\visual studio 2015\Projects\methodsAndProperties\methodsAndProperties\obj\Debug\methodsAndProperties.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\methodsAndProperties\methodsAndProperties\obj\Debug\methodsAndProperties.exe
+c:\users\user\documents\visual studio 2015\Projects\methodsAndProperties\methodsAndProperties\obj\Debug\methodsAndProperties.pdb

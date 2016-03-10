@@ -1,0 +1,5 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.pdb

@@ -1,0 +1,6 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\AnotherStruct\AnotherStruct\bin\Debug\AnotherStruct.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\AnotherStruct\AnotherStruct\bin\Debug\AnotherStruct.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\AnotherStruct\AnotherStruct\bin\Debug\AnotherStruct.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\AnotherStruct\AnotherStruct\obj\Debug\AnotherStruct.csprojResolveAssemblyReference.cache
+c:\users\core i3 550\documents\visual studio 2015\Projects\AnotherStruct\AnotherStruct\obj\Debug\AnotherStruct.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\AnotherStruct\AnotherStruct\obj\Debug\AnotherStruct.pdb

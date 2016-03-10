@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\AddingProperties\AddingProperties\bin\Debug\AddingProperties.exe.config
+c:\users\user\documents\visual studio 2015\Projects\AddingProperties\AddingProperties\obj\Debug\AddingProperties.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\AddingProperties\AddingProperties\bin\Debug\AddingProperties.exe
+c:\users\user\documents\visual studio 2015\Projects\AddingProperties\AddingProperties\bin\Debug\AddingProperties.pdb
+c:\users\user\documents\visual studio 2015\Projects\AddingProperties\AddingProperties\obj\Debug\AddingProperties.exe
+c:\users\user\documents\visual studio 2015\Projects\AddingProperties\AddingProperties\obj\Debug\AddingProperties.pdb
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\additionalProjects\AddingProperties\AddingProperties\bin\Debug\AddingProperties.exe.config
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\additionalProjects\AddingProperties\AddingProperties\obj\Debug\AddingProperties.exe
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\additionalProjects\AddingProperties\AddingProperties\obj\Debug\AddingProperties.pdb

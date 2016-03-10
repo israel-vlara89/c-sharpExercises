@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\modularizingMethods\modularizingMethods\bin\Debug\modularizingMethods.exe.config
+c:\users\user\documents\visual studio 2015\Projects\modularizingMethods\modularizingMethods\bin\Debug\modularizingMethods.exe
+c:\users\user\documents\visual studio 2015\Projects\modularizingMethods\modularizingMethods\bin\Debug\modularizingMethods.pdb
+c:\users\user\documents\visual studio 2015\Projects\modularizingMethods\modularizingMethods\obj\Debug\modularizingMethods.exe
+c:\users\user\documents\visual studio 2015\Projects\modularizingMethods\modularizingMethods\obj\Debug\modularizingMethods.pdb

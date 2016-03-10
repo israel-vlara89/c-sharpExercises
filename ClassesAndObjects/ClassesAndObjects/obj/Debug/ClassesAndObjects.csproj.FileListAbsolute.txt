@@ -1,0 +1,6 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojResolveAssemblyReference.cache
+c:\users\core i3 550\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb

@@ -1,0 +1,6 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4ObjectLifetime\Chapter4ObjectLifetime\bin\Debug\Chapter4ObjectLifetime.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4ObjectLifetime\Chapter4ObjectLifetime\obj\Debug\Chapter4ObjectLifetime.csprojResolveAssemblyReference.cache
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4ObjectLifetime\Chapter4ObjectLifetime\bin\Debug\Chapter4ObjectLifetime.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4ObjectLifetime\Chapter4ObjectLifetime\bin\Debug\Chapter4ObjectLifetime.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4ObjectLifetime\Chapter4ObjectLifetime\obj\Debug\Chapter4ObjectLifetime.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chapter4ObjectLifetime\Chapter4ObjectLifetime\obj\Debug\Chapter4ObjectLifetime.pdb

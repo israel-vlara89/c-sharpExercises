@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\simplifyingMethods\simplifyingMethods\bin\Debug\simplifyingMethods.exe.config
+c:\users\user\documents\visual studio 2015\Projects\simplifyingMethods\simplifyingMethods\bin\Debug\simplifyingMethods.exe
+c:\users\user\documents\visual studio 2015\Projects\simplifyingMethods\simplifyingMethods\bin\Debug\simplifyingMethods.pdb
+c:\users\user\documents\visual studio 2015\Projects\simplifyingMethods\simplifyingMethods\obj\Debug\simplifyingMethods.exe
+c:\users\user\documents\visual studio 2015\Projects\simplifyingMethods\simplifyingMethods\obj\Debug\simplifyingMethods.pdb
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\additionalProjects\simplifyingMethods\simplifyingMethods\bin\Debug\simplifyingMethods.exe.config
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\additionalProjects\simplifyingMethods\simplifyingMethods\obj\Debug\simplifyingMethods.exe
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\additionalProjects\simplifyingMethods\simplifyingMethods\obj\Debug\simplifyingMethods.pdb
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\additionalProjects\simplifyingMethods\simplifyingMethods\bin\Debug\simplifyingMethods.exe
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\additionalProjects\simplifyingMethods\simplifyingMethods\bin\Debug\simplifyingMethods.pdb
+C:\Users\Core i3 550\Documents\Visual Studio 2015\Projects\additionalProjects\simplifyingMethods\simplifyingMethods\obj\Debug\simplifyingMethods.csprojResolveAssemblyReference.cache

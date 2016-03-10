@@ -1,0 +1,5 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\Delegates\Delegates\bin\Debug\Delegates.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\Delegates\Delegates\bin\Debug\Delegates.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Delegates\Delegates\bin\Debug\Delegates.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\Delegates\Delegates\obj\Debug\Delegates.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Delegates\Delegates\obj\Debug\Delegates.pdb

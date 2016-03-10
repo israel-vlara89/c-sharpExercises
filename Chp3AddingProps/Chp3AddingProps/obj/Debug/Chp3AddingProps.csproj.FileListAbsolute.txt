@@ -1,0 +1,6 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3AddingProps\Chp3AddingProps\bin\Debug\Chp3AddingProps.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3AddingProps\Chp3AddingProps\bin\Debug\Chp3AddingProps.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3AddingProps\Chp3AddingProps\bin\Debug\Chp3AddingProps.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3AddingProps\Chp3AddingProps\obj\Debug\Chp3AddingProps.csprojResolveAssemblyReference.cache
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3AddingProps\Chp3AddingProps\obj\Debug\Chp3AddingProps.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3AddingProps\Chp3AddingProps\obj\Debug\Chp3AddingProps.pdb

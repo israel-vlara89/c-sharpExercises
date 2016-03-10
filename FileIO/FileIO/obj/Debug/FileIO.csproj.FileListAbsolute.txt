@@ -1,0 +1,5 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileIO\FileIO\bin\Debug\FileIO.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileIO\FileIO\bin\Debug\FileIO.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileIO\FileIO\bin\Debug\FileIO.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileIO\FileIO\obj\Debug\FileIO.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileIO\FileIO\obj\Debug\FileIO.pdb

@@ -1,0 +1,6 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3MethodsAndProps\Chp3MethodsAndProps\bin\Debug\Chp3MethodsAndProps.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3MethodsAndProps\Chp3MethodsAndProps\bin\Debug\Chp3MethodsAndProps.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3MethodsAndProps\Chp3MethodsAndProps\bin\Debug\Chp3MethodsAndProps.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3MethodsAndProps\Chp3MethodsAndProps\obj\Debug\Chp3MethodsAndProps.csprojResolveAssemblyReference.cache
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3MethodsAndProps\Chp3MethodsAndProps\obj\Debug\Chp3MethodsAndProps.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\Chp3MethodsAndProps\Chp3MethodsAndProps\obj\Debug\Chp3MethodsAndProps.pdb
